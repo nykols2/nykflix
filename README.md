@@ -7,5 +7,8 @@ NykFlix, um projeto fictício de site de streaming, inspirado nas principais pla
 - **HTML:** Estrutura da página e elementos.
 - **CSS:** Estilização para uma experiência visual atraente.
 
+# 📖 Referências
+- Alura Cursos
+
 # 📂 Acesse o projeto
 [Acesse o projeto aqui](https://nykflix.vercel.app/)
