@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-fundo: #00030C;
+    --botao-azul-active: #0E5AAB;
+    --botao-azul-hover: #2593fa;
+    --fonte-principal: 'Inter', sans-serif;
+  }
+  
+  body {
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    background-color: var(--cor-fundo);
+    color: var(--branco-principal);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: rgba(192, 192, 192, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .formulario-login {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formulario__titulo {
+    font-weight: 700;
+  }
+  
+  .formulario__texto {
+    margin-top: 10px;
+  }
+  
+  .formulario__resposta {
+    padding: 8px;
+    margin: 5px 0 15px 0;
+  }
+  
+  .formulario__botao {
+    background-color: var(--botao-azul);
+    color: var(--branco-principal);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .mensagem-cadastro {
+    margin-top: 20px;
+    text-align: center;
+    color: var(--cinza-secundario);
+  }
+  
+  .mensagem-cadastro a {
+    color: var(--botao-azul);
+    text-decoration: none;
+  }
+
+/* hover e active */
+  
+  .formulario__botao:hover {
+    background-color: var(--botao-azul-hover);
+  }
+  
+  .formulario__botao:active {
+    background-color: var(--botao-azul-active);
+  }
+  
+  .mensagem-cadastro a:hover {
+    color: var(--botao-azul-hover);
+  }
+
+
+/* mensagem desenvolvimento */
+
+.alerta-desenvolvimento {
+    background-color: #ffc400; 
+    color: var(--cor-fundo); 
+    text-align: center;
+    font-size: 14px;
+    padding: 0.1px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+
+
+
+  
