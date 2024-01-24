@@ -3,7 +3,7 @@
 # 📚 Introdução
 NykFlix, um projeto fictício de site de streaming, inspirado nas principais plataformas do mercado, como Netflix e Disney+. Oferecendo uma representação das principais páginas de um serviço de streaming com uma interface intuitiva. 
 
-# 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 - **HTML:** Estrutura da página e elementos.
 - **CSS:** Estilização para uma experiência visual atraente.
 
