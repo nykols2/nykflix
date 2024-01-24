@@ -9,6 +9,7 @@ NykFlix, um projeto fictício de site de streaming, inspirado nas principais pla
 
 # 📖 Referências
 - Alura Cursos
+- Disney+ (Inspiração para o design)
 
 # 📂 Acesse o projeto
 [Acesse o projeto aqui](https://nykflix.vercel.app/)
